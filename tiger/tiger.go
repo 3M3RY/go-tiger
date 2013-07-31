@@ -1,5 +1,6 @@
 // Copyright (c) 2013 Yoran Heling
 // TODO: use cgo. This implementation one really isn't fast enough
+
 package tiger
 
 import "hash"

@@ -1,4 +1,5 @@
 // Copyright (c) 2013 Yoran Heling
+
 package tiger
 
 var sb1 = []uint64{

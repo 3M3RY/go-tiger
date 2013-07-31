@@ -1,5 +1,6 @@
 // Copyright (c) 2013 Yoran Heling
 // Modified from Go's /src/pkg/crypto/md4/md4_test.go
+
 package tiger
 
 import (
